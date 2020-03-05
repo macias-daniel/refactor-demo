@@ -3,9 +3,9 @@
 ## Goal
 
 ```
--   Demonstrating ability to refactor pre-existing code in order to:
-    * Follow accessibility standards 
-    * Optimize SEO
+Demonstrating ability to refactor pre-existing code in order to:
+* Follow accessibility standards 
+* Optimize SEO
 ```
 
 ## User Story
