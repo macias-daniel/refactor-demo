@@ -35,7 +35,7 @@ p {
     color: #d9dcd6;
 }
 
-.navbar div {
+.navbar nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -43,11 +43,11 @@ p {
     font-size: 20px;
 }
 
-.navbar div ul {
+.navbar nav ul {
     list-style-type: none;
 }
 
-.navbar div ul li {
+.navbar nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
